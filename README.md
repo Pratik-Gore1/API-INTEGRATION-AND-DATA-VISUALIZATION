@@ -23,3 +23,7 @@ Once the data is validated, the program extracts key weather parameters includin
 For data visualization, the program uses Matplotlib and Seaborn. Matplotlib provides the core plotting functionality, while Seaborn enhances the visual appearance of the graphs, making them easier to interpret. A visualization dashboard is created using subplots, displaying multiple line graphs in a single window. One graph represents the temperature forecast over time, and the other represents the humidity forecast for the same period. Appropriate titles, axis labels, and rotated x axis labels are added to improve clarity and readability.
 
 The temperature graph helps identify changes and trends in temperature, while the humidity graph provides insights into atmospheric moisture levels. Displaying both visualizations together allows for easy comparison of different weather parameters. Overall, this project demonstrates effective use of a public API, proper data handling, and clear data visualization techniques, fulfilling all the requirements of the internship task.
+
+# OUTPUT
+
+<img width="1912" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cb8558e9-82ce-4c3e-8faa-a96ada39b824" />
